@@ -1,2 +1,24 @@
 # crispy-octo-guacamole
 Linux TierPoint Challenges
+
+Example Interview Challenge
+
+     _.-^^---....,,--       
+ _--                  --_  
+<                        >)
+|                         | 
+ \._                   _./  
+    ```--. . , ; .--'''       
+          | |   |             
+       .-=||  | |=-.   
+       `-=#$%&%$#=-'   
+          | ;  :|     
+ _____.,-#%&$@%#&#~,._____
+
+ TierPoint Linux Challenge
+
+The EOC has just received a file system usage alert on the root mountpoint.
+This alert triggers once the 95% threshold is crossed.
+You have been given a TierPoint admin account that has been added to the wheel group.
+See if you can clear the alert in less than 15 minutes, before the on-call is contacted.
+This EC2 instance will terminate in 30 minutes.
