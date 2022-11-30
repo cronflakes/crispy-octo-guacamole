@@ -4,8 +4,8 @@ CREDS=$(pwmake 4)
 FILE=/home/ec2-user/.ssh/.../delete_me.txt
 DATESTAMP=$(date +"%s")
 
-wget -O /etc/motd https://raw.githubusercontent.com/cronflakes/crispy-octo-guacamole/main/motd
 update-motd --disable
+wget -O /etc/motd https://raw.githubusercontent.com/cronflakes/crispy-octo-guacamole/main/motd
 
 adduser tieradmin
 usermod -aG wheel tieradmin
