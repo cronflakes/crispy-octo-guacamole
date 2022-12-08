@@ -1,4 +1,5 @@
 #!/bin/bash
+#must have VPC endpoint in private subnet 
 
 ROLE_NAME="ssm-role"
 POLICY_DOC="/home/$USER/assume-role-policy.json"
